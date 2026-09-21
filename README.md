@@ -93,7 +93,7 @@ Website performance was analyzed across January–June 2025 using:
 - Monthly Goal Completions
 
 ## Power BI Dashboard
-
+![Website Traffic Analysis Dashboard](Syntecxhub_Project_2_Web_imagr.png)
 The interactive dashboard includes:
 
 - KPI cards
